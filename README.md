@@ -9,6 +9,12 @@ This project aims to:
 ---
 
 ## User Guide
+Python version: 3.9.7
+
+To install all packages used:
+```
+pip install -r requirements.txt
+```
 ### Importing the modules
 ```
 from detector import Detector
